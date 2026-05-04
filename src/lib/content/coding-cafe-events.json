@@ -1,13 +1,25 @@
 [
-		{
-		"title": "AI assisted coding - tentative",
-		"date": "2026-05-05",
+			{
+		"title": "topic will be updated soon",
+		"date": "2026-07-09",
 		"startTime": "13:00",
 		"endTime": "14:30",
 		"description": "will be updated soon",
-		"location": "S-07-005",
+		"location": "will be updated soon",
 		"speaker": "Özgün Balaban",
-		"slug": "2026-05-05-ai-assisted-coding-tentative",
+		"slug": "2026-07-09",
+		"slides": "",
+		"tags": []
+	}, 
+		{
+		"title": "AI assisted coding - tentative",
+		"date": "2026-06-09",
+		"startTime": "13:00",
+		"endTime": "14:30",
+		"description": "will be updated soon",
+		"location": "will be updated soon",
+		"speaker": "Özgün Balaban",
+		"slug": "2026-06-09-ai-assisted-coding-tentative",
 		"slides": "",
 		"tags": ["AI", "coding"]
 	}, 
