@@ -12,14 +12,14 @@
 		"tags": []
 	}, 
 		{
-		"title": "AI assisted coding - tentative",
+		"title": "AI assisted coding: examples and discussion",
 		"date": "2026-06-09",
-		"startTime": "13:00",
-		"endTime": "14:30",
-		"description": "will be updated soon",
-		"location": "will be updated soon",
+		"startTime": "14:00",
+		"endTime": "15:30",
+		"description": "A practical tour of coding with an AI in the loop from AI-assisted to AI-driven. There will be examples and a discussion.",
+		"location": "S-07-005",
 		"speaker": "Özgün Balaban",
-		"slug": "2026-06-09-ai-assisted-coding-tentative",
+		"slug": "2026-06-09-ai-assisted-coding",
 		"slides": "",
 		"tags": ["AI", "coding"]
 	}, 
