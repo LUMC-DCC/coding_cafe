@@ -17,7 +17,7 @@
 		{ name: 'About', path: '/about' }
 	];
 
-	const handbookUrl = 'https://lumc-dcc.github.io/research_software_handbook';
+	const handbookUrl = 'https://lumc-dcc.github.io/research_software_knowledgebase';
 
 	const closeMobileMenu = () => {
 		isMobileMenuOpen = false;
@@ -51,7 +51,7 @@
 				{#each navItems as item}
 					<a href={withBase(item.path)} class:active={isActive(item.path)}>{item.name}</a>
 				{/each}
-				<a href={handbookUrl} target="_blank" rel="noopener noreferrer">Handbook</a>
+				<a href={handbookUrl} target="_blank" rel="noopener noreferrer">Knowledge Base</a>
 			</nav>
 
 			<button
@@ -88,7 +88,11 @@
 
 	<footer class="footer">
 		<div class="footer-shell container">
-			<a href={withBase('/')} class="footer-logo-card" aria-label="LUMC Research Software Training home">
+			<a
+				href={withBase('/')}
+				class="footer-logo-card"
+				aria-label="LUMC Research Software Training home"
+			>
 				<img src={logoSrc} alt="LUMC Research Software Training logo" />
 			</a>
 
@@ -231,7 +235,6 @@
 	.nav a:hover {
 		background: transparent;
 	}
-
 
 	.mobile-nav a:hover {
 		background: #f1f5f9;
